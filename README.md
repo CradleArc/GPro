@@ -12,7 +12,7 @@ Vue前端设计实现参考：https://github.com/maomao1996/Vue-mmPlayer
 
 Node.js：下载网易云音乐 NodeJS 版 API
 
-#### 实现页面如下
+#### Demo演示
 
 在线播放的音频可视化：
 
