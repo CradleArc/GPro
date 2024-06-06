@@ -1,6 +1,13 @@
-#  GPro
-
-### 本科毕业设计
+<div align="center">
+<br/>
+<br/>
+  <h1 align="center">
+    GPro
+  </h1>
+  <h4 align="center">
+    本 科 毕 业 设 计
+  </h4>
+</div>
 
 * 题目：基于Vue的音频源分离系统的设计与实现
 
