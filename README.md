@@ -21,14 +21,15 @@ Node.js：下载网易云音乐 NodeJS 版 API，该份源码已经下架，可�
 
 demucs：该模型的功能是分离一首音乐中人声、背景和乐器声音，目前可以部署在本地运行，也可以下载 `demucs` 调用 .pth 文件，项目源于：https://github.com/facebookresearch/demucs
 
+## 持续更新！！！
 
-#### Requirements
+#### 功能实现 
 
-* 下载 `Node.js` 16.04版本
+* 播放音频【网易云音乐】
 
-```bash 
-pip install -U demucs
-```
+* 分离音频
+
+* 分离音频可视化
 
 
 #### Demo演示
@@ -42,3 +43,20 @@ pip install -U demucs
 ![1716838713765](image/README/1716838713765.png)
 
 #### 目前只是简单的文档演示，后续有机会补上。
+
+## 使用说明
+
+### 1、通过源码部署
+
+Requirements
+
+* 下载 `Node.js` 16.04版本
+
+```bash 
+pip install -U demucs
+```
+### 2、通过docker部署
+
+## 配置说明
+
+
